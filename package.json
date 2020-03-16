@@ -16,6 +16,7 @@
   },
   "repository": {
     "type": "git",
+    "url": "http://vaporjawn.github.io/react-tac-toe/"
       },
   "keywords": [
     "tic tac toe",
